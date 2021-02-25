@@ -29,3 +29,10 @@ drive.mount('/content/gdrive')
 ```
 - The dataset can be downloaded [from this public google drive repository](https://drive.google.com/file/d/1FvU_IvhSpues4O_Ac8Gn7dHBaX9xaxPy/view?usp=sharing)
 - Running it locally should not be very different, but make sure to use the appropriate tensorflow/keras/python versions or you're likely to obtain errors
+
+### Model Architectures
+#### CNN-VAE-LSTM
+![](cnnvaelstm.png)
+
+#### CNN-VAE-LSTM-GAN
+![](GAN_diagram.png)
