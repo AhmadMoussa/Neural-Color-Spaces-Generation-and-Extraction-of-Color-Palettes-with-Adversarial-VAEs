@@ -1,6 +1,6 @@
 # Neural Color Spaces
 ## Generation and Extraction of Color Palettes with Adversarial Variational Auto Encoders
-![](Github Figures/Figure1Example.png)
+![](figures/Figure1Example.png)
 
 ### Abstract
 
