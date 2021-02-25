@@ -9,3 +9,7 @@ The process of creating a meaningful and perceptually pleasing color palette is 
 ### Notes
 - The VAE, as well as the VAE-GAN can be trained in a couple of hours on Google Colab
 - Pre-trained model weights can be found in the .ZIP file named 'Pre-trained-model-weights.zip'
+
+
+### Dataset
+The dataset can be downloaded ![from this link](https://drive.google.com/file/d/1FvU_IvhSpues4O_Ac8Gn7dHBaX9xaxPy/view?usp=sharing)
