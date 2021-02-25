@@ -1,4 +1,4 @@
-# Neural Color Palettes
+# Neural Color Spaces
 ## Generation and Extraction of Color Palettes with Adversarial Variational Auto Encoders
 
 ### Abstract
