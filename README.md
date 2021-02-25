@@ -32,7 +32,7 @@ drive.mount('/content/gdrive')
 
 ### Model Architectures
 #### CNN-VAE-LSTM
-![](cnnvaelstm.png)
+![](figures/cnnvaelstm.png)
 
 #### CNN-VAE-LSTM-GAN
-![](GAN_diagram.png)
+![](figures/GAN_diagram.png)
